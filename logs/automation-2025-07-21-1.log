@@ -1,0 +1,56 @@
+2025-07-21 14:03:05.736 [main] INFO  testcase.TC01_Register - Navigating to registration page...
+2025-07-21 14:03:06.525 [main] INFO  testcase.TC01_Register - Filling out registration form with username: fitxfmug
+2025-07-21 14:03:10.260 [main] INFO  testcase.TC01_Register - Current URL after registration: https://fitnessproject.pythonanywhere.com/login/
+2025-07-21 14:03:10.280 [main] INFO  testcase.TC01_Register -  Registration successful. Username: fitxfmug
+2025-07-21 14:03:10.309 [main] INFO  testcase.TC02_Login -  Starting login test...
+2025-07-21 14:03:10.310 [main] INFO  testcase.TC02_Login - Using registered username: fitxfmug
+2025-07-21 14:03:12.163 [main] INFO  testcase.TC02_Login - Submitted login form.
+2025-07-21 14:03:12.197 [main] INFO  testcase.TC02_Login - Current URL after login: https://fitnessproject.pythonanywhere.com/dashboard/
+2025-07-21 14:03:12.212 [main] INFO  testcase.TC02_Login -  Login successful. Redirected to dashboard.
+2025-07-21 14:03:12.223 [main] INFO  testcase.TC_03Goal - Starting TC_03Goal test...
+2025-07-21 14:03:12.873 [main] INFO  testcase.TC_03Goal - 📄 Navigated to Set Goal page: https://fitnessproject.pythonanywhere.com/set_goal/
+2025-07-21 14:03:12.929 [main] INFO  testcase.TC_03Goal -  Setting goal: Run 40km, Target: 30
+2025-07-21 14:03:25.540 [main] INFO  testcase.TC04_Leaderboard -  Starting leaderboard test for user: fitxfmug
+2025-07-21 14:03:26.062 [main] INFO  testcase.TC04_Leaderboard -  Navigated to Leaderboard page.
+2025-07-21 14:13:18.606 [main] INFO  testcase.TC01_Register - Navigating to registration page...
+2025-07-21 14:13:19.173 [main] INFO  testcase.TC01_Register - Filling out registration form with username: fitR1nQm
+2025-07-21 14:13:22.762 [main] INFO  testcase.TC01_Register - Current URL after registration: https://fitnessproject.pythonanywhere.com/login/
+2025-07-21 14:13:22.782 [main] INFO  testcase.TC01_Register -  Registration successful. Username: fitR1nQm
+2025-07-21 14:13:22.815 [main] INFO  testcase.TC02_Login -  Starting login test...
+2025-07-21 14:13:22.815 [main] INFO  testcase.TC02_Login - Using registered username: fitR1nQm
+2025-07-21 14:13:24.422 [main] INFO  testcase.TC02_Login - Submitted login form.
+2025-07-21 14:13:24.433 [main] INFO  testcase.TC02_Login - Current URL after login: https://fitnessproject.pythonanywhere.com/dashboard/
+2025-07-21 14:13:24.443 [main] INFO  testcase.TC02_Login -  Login successful. Redirected to dashboard.
+2025-07-21 14:13:24.451 [main] INFO  testcase.TC_03Goal - Starting TC_03Goal test...
+2025-07-21 14:13:24.940 [main] INFO  testcase.TC_03Goal - 📄 Navigated to Set Goal page: https://fitnessproject.pythonanywhere.com/set_goal/
+2025-07-21 14:13:24.944 [main] INFO  testcase.TC_03Goal -  Setting goal: Run 40km, Target: 30
+2025-07-21 14:13:37.333 [main] INFO  testcase.TC04_Leaderboard -  Starting leaderboard test for user: fitR1nQm
+2025-07-21 14:13:38.140 [main] INFO  testcase.TC04_Leaderboard -  Navigated to Leaderboard page.
+2025-07-21 20:10:59.165 [main] INFO  testcase.TC01_Register - Navigating to registration page...
+2025-07-21 20:10:59.735 [main] INFO  testcase.TC01_Register - Filling out registration form with username: fit3dH9Z
+2025-07-21 20:11:03.963 [main] INFO  testcase.TC01_Register - Current URL after registration: https://fitnessproject.pythonanywhere.com/login/
+2025-07-21 20:11:03.978 [main] INFO  testcase.TC01_Register -  Registration successful. Username: fit3dH9Z
+2025-07-21 20:11:04.000 [main] INFO  testcase.TC02_Login -  Starting login test...
+2025-07-21 20:11:04.001 [main] INFO  testcase.TC02_Login - Using registered username: fit3dH9Z
+2025-07-21 20:11:05.457 [main] INFO  testcase.TC02_Login - Submitted login form.
+2025-07-21 20:11:05.506 [main] INFO  testcase.TC02_Login - Current URL after login: https://fitnessproject.pythonanywhere.com/dashboard/
+2025-07-21 20:11:05.521 [main] INFO  testcase.TC02_Login -  Login successful. Redirected to dashboard.
+2025-07-21 20:11:05.529 [main] INFO  testcase.TC_03Goal - Starting TC_03Goal test...
+2025-07-21 20:11:06.109 [main] INFO  testcase.TC_03Goal -  Navigated to Set Goal page: https://fitnessproject.pythonanywhere.com/set_goal/
+2025-07-21 20:11:06.119 [main] INFO  testcase.TC_03Goal -  Setting goal: Run 40km, Target: 30
+2025-07-21 20:11:18.747 [main] INFO  testcase.TC04_Leaderboard -  Starting leaderboard test for user: fit3dH9Z
+2025-07-21 20:11:19.403 [main] INFO  testcase.TC04_Leaderboard -  Navigated to Leaderboard page.
+2025-07-21 20:38:37.744 [main] INFO  testcase.TC01_Register - Navigating to registration page...
+2025-07-21 20:38:38.260 [main] INFO  testcase.TC01_Register - Filling out registration form with username: fitVwSjU
+2025-07-21 20:38:41.760 [main] INFO  testcase.TC01_Register - Current URL after registration: https://fitnessproject.pythonanywhere.com/login/
+2025-07-21 20:38:41.769 [main] INFO  testcase.TC01_Register -  Registration successful. Username: fitVwSjU
+2025-07-21 20:38:41.783 [main] INFO  testcase.TC02_Login -  Starting login test...
+2025-07-21 20:38:41.783 [main] INFO  testcase.TC02_Login - Using registered username: fitVwSjU
+2025-07-21 20:38:42.992 [main] INFO  testcase.TC02_Login - Submitted login form.
+2025-07-21 20:38:43.002 [main] INFO  testcase.TC02_Login - Current URL after login: https://fitnessproject.pythonanywhere.com/dashboard/
+2025-07-21 20:38:43.024 [main] INFO  testcase.TC02_Login -  Login successful. Redirected to dashboard.
+2025-07-21 20:38:43.031 [main] INFO  testcase.TC_03Goal - Starting TC_03Goal test...
+2025-07-21 20:38:43.577 [main] INFO  testcase.TC_03Goal -  Navigated to Set Goal page: https://fitnessproject.pythonanywhere.com/set_goal/
+2025-07-21 20:38:43.582 [main] INFO  testcase.TC_03Goal -  Setting goal: Run 40km, Target: 30
+2025-07-21 20:38:55.824 [main] INFO  testcase.TC04_Leaderboard -  Starting leaderboard test for user: fitVwSjU
+2025-07-21 20:38:56.279 [main] INFO  testcase.TC04_Leaderboard -  Navigated to Leaderboard page.
